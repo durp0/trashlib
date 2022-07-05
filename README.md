@@ -7,5 +7,5 @@ This UI Library is made for jokes, it was created for testing and nothing else. 
 
 # Code
 ```lua
-https://raw.githubusercontent.com/durp0/trashlib/main/library.lua
+loadstring(game:HttpGet(https://raw.githubusercontent.com/durp0/trashlib/main/library.lua))
 ```
